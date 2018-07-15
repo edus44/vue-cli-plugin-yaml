@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-yaml",
+  "description": "Add YAML support to Webpack using yaml-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "plugin",
+    "webpack",
+    "yaml",
+    "yml",
+    "yaml-loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edus44/vue-cli-plugin-yaml.git"
+  },
+  "author": "edus44 <eduhhg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-loader": "^0.5.7",
+    "yaml-loader": "^0.5.0"
+  }
+}
