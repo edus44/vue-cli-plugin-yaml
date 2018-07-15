@@ -1,5 +1,5 @@
 module.exports = (api, projectOptions) => {
-  api.chainWebpack(webpackConfig => {
+  api.chainWebpack(config => {
     config.resolve.extensions.add('.yml').add('.yaml')
     config.module
       .rule('yaml')
