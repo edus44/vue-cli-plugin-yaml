@@ -6,6 +6,8 @@ Add YAML support to Webpack using yaml-loader
 
 ```
 yarn add --dev vue-cli-plugin-yaml
+
+npm install --save-dev vue-cli-plugin-yaml
 ```
 
 There is no need to configure anything else
